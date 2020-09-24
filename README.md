@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 # node_api
 
 Inicializando estudos com NodeJS, criando aplicação API REST de produtos e usando CRUD.
-=======
+
 # Aplicação API de Node JS
 
 Esta é uma API REST com capacidade para criação, edição, listagem e exclusão de dados.
@@ -13,4 +12,3 @@ A API grava os dados dentro do banco de dados MongoDB indexado em uma imagem no 
 
 Foi utilizado a dependência Express do Node JS para criar as funções.
 
->>>>>>> 6b6a11b4395bae489f73ba6b592574453a1d517e
